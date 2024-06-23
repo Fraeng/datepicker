@@ -21,7 +21,7 @@
 # generated
 .vercel
 /node_modules
-/dist
+
 /package-lock.json
 
 # testing
