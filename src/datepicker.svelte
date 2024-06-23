@@ -151,25 +151,25 @@
    * An array of day-of-week labels.
    * @type {string[]}
    */
-  export let dowLabels = ['Su', 'Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa'];
+  export let dowLabels = ['So', 'Mo', 'Di', 'Mi', 'Do', 'Fr', 'Sa'];
 
   /**
    * An array of month labels.
    * @type {string[]}
    */
   export let monthLabels = [
-    'January',
-    'February',
-    'March',
+    'Januar',
+    'Februar',
+    'März',
     'April',
-    'May',
-    'June',
+    'Mai',
+    'Juni',
     'July',
     'August',
     'September',
-    'October',
+    'Oktober',
     'November',
-    'December'
+    'Dezember'
   ];
 
   /**
